@@ -1,0 +1,7 @@
+setup.py
+ms/__init__.py
+ms.egg-info/PKG-INFO
+ms.egg-info/SOURCES.txt
+ms.egg-info/dependency_links.txt
+ms.egg-info/not-zip-safe
+ms.egg-info/top_level.txt
